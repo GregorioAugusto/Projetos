@@ -1,0 +1,60 @@
+body {
+  background-color: #4a3b2a;
+  font-family: "Georgia", serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.caixa-login {
+  background-color: #f3e5ab;
+  padding: 40px;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+  border: 4px solid #2e2010;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 90%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #8b4513;
+  background-color: #fffaf0;
+  border-radius: 5px;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #8b4513;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+  background-color: #5d2906;
+}
+
+.icone-livro {
+  font-size: 50px;
+  color: #8b4513;
+  margin-bottom: 10px;
+}
+
+
+.link-trocar {
+  margin-top: 15px;
+  font-size: 14px;
+  color: #2e2010;
+  cursor: pointer;
+  text-decoration: underline;
+}
