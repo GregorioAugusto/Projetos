@@ -4,13 +4,20 @@
 É um sistema para o gerenciamento de livros do usuario, em um servidor local, usando xamp, com apache e mysql ligados, fiz o projeto em web, utilizando Html, css, js, e PHP. Para atender casos de pessoas com muitos livros, com opção de adicionar resumos do livro para facil memorização, com sistema de busca dentro das opções de escolha de genero, nome e autor.
 Caso não tenha foto, tem uma foto de capa de livro de maneira padrão.
 
+
  ⚙️ Tecnologias Utilizadas
+ 
  **Front-end:** HTML, CSS e JavaScript.
-    * *Justificativa:* Para garantir responsabilidade e animações mais elegantes.
+ 
+   * *Justificativa:* Para garantir responsabilidade e animações mais elegantes.
+     
  **Back-end:** PHP (Versão 7.4 ou superior).
-    * *Justificativa:* Majoritariamente porque é a linguagem que mais domino.
+ 
+   * *Justificativa:* Majoritariamente porque é a linguagem que mais domino.
+     
  **Banco de Dados:** MySQL.
-    * *Justificativa:* Para guardar os dados, sistema de login, id, livros, imagens, etc.
+ 
+   * *Justificativa:* Para guardar os dados, sistema de login, id, livros, imagens, etc.
 
  📂 Estrutura do Projeto
 
